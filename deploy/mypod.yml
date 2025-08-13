@@ -3,7 +3,6 @@ kind: Pod
 metadata:
   namespace: application
   name: my-pod
-  namespace: default
   labels:
     app: myapp
 spec:
